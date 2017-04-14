@@ -21,6 +21,7 @@ public class AplicacaoJavaTesteGit {
         JOptionPane.showMessageDialog(null, "Qualquer semelhança é mera coincidência!");
         inicial inicial = new inicial();
         inicial.setVisible(true);
+        System.out.println("nova mensagem");
     }
     
 }
